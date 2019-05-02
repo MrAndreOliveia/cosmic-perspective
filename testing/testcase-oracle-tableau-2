@@ -76,15 +76,13 @@ def query_db_loadid():
 	step_number = 4
 	step_name = 'Get LoadID from Oracle database'
 
-	username = 'STAR_ST2018_DATA'
-	password = 'STAR_ST2018_DATA'
-	hostname = 'xt02tst-scan.tadnet.net'
-	port = 1521
-	database = 't4srstar_svc.tst.tns'
+	username = 'USER'
+	password = 'PASSWORD'
+	hostname = 'HOSTNAME'
+	port = 1234
+	database = 'DBNAME'
 
 	auth_string = username + '/' + password + '@' + hostname + ':' + '/' + database
-
-	#conn_str = u'STAR_ST2018_DATA/STAR_ST2018_DATA@xt02tst-scan.tadnet.net:1521/t4srstar_svc.tst.tns'
 
 	conn_str = auth_string
 
