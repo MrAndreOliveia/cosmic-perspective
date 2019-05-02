@@ -1,8 +1,22 @@
-# testing
 
-This repository stores template Python scripts used to produce test cases for an IT system.
+# data-analytics
 
-The overall testing scope is based on the comparison of data from different sources, verifying the reporting system data quality.
+This repository contains scripts created for professional and academic purposes. The main analytical programming languages are:
+ - Python
+ - SQL
+ - MATLAB
+ 
+There is no confidental data disclosed.
+
+
+## database
+
+## machine-learning
+
+
+## testing
+
+This folder stores template Python scripts used to produce test cases for an IT system. The overall testing scope is based on the comparison of data from different sources, verifying the reporting system data quality.
 The main testing features are the following:
 - Tableau Server reports
 - Excel files (templates)
