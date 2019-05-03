@@ -9,8 +9,7 @@ This repository contains scripts created for professional and academic purposes.
 
 ### automation
 
-This folder stores template Python scripts used to automate tasks.
-The main automation scope is defined as:
+This folder stores template Python scripts used to automate tasks. The main automation scope is defined as:
 - Tableau Server management
 - Data extraction
 - Data analysis
@@ -18,6 +17,11 @@ The main automation scope is defined as:
 
 ### machine-learning
 
+This folder stores data science Python scripts to create machine learning models. The following algorithms are available:
+- Classification: Decision Trees, Random Forest
+- Regression: Linear, Multi-Linear
+- Clustering: KNN (K — Nearest Neighbors)
+- Deep Learning: Neural Networks
 
 
 ### testing
