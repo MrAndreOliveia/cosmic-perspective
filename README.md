@@ -11,7 +11,7 @@ This repository contains scripts created for professional and academic purposes.
 
 This folder stores template Python scripts used to automate tasks.
 The main automation scope is defined as:
-- Tableau Server tasks
+- Tableau Server management
 - Data extraction
 - Data analysis
 
