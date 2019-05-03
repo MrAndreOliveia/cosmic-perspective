@@ -1,12 +1,12 @@
 
 # data-analytics
 
-This repository contains scripts created for professional and academic purposes. The main analytical programming languages are:
+This repository contains scripts created for professional and academic purposes. There is no confidental data disclosed. The main analytical programming languages are:
  - Python
  - SQL
  - MATLAB
  
-There is no confidental data disclosed.
+
  
  
  
