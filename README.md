@@ -7,10 +7,6 @@ This repository contains scripts created for professional and academic purposes.
  - MATLAB
  
 
- 
- 
- 
- 
 ### automation
 
 This folder stores template Python scripts used to automate tasks.
@@ -18,8 +14,8 @@ The main automation scope is defined as:
 - Tableau Server tasks
 - Data extraction
 - Data analysis
- 
- 
+
+
 ### machine-learning
 
 
