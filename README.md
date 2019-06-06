@@ -18,10 +18,10 @@ This folder stores template Python scripts used to automate tasks. The main auto
 ### machine-learning
 
 This folder stores data science Python scripts to create machine learning models. The following algorithms are available:
-- Classification: Decision Trees, Random Forest
-- Regression: Linear, Multi-Linear
-- Clustering: KNN (K — Nearest Neighbors)
-- Deep Learning: Neural Networks
+- Classification
+- Regression
+- Clustering
+- Deep Learning
 
 
 ### testing
