@@ -2,13 +2,13 @@
 # cosmic-perspective-luminocity
 
 This repository contains scripts created for professional and academic purposes. There is no confidental data disclosed. 
- 
 
-### automation
-Template scripts used to automate tasks.
 
 ### analytics
 Template scripts used to analyze datasets.
+
+### automation
+Template scripts used to automate tasks.
 
 ### machine-learning
 Machine learning scripts to create ML models.
