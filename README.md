@@ -1,5 +1,5 @@
 
-# cosmic-perspective-luminocity
+# Lampoon
 
 This repository contains scripts created for professional and academic purposes. There is no confidental data disclosed. 
 
