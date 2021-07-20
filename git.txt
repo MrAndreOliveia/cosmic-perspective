@@ -1,0 +1,49 @@
+# clone a repo
+git clone <repo url>
+
+# …or create a new repository on the command line
+echo "# pp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:andyolivers/payments-classifier.git
+git push origin main
+
+
+# …or push an existing repository from the command line
+git remote add origin git@github.com:andyolivers/payments-classifier.git
+git branch -M main
+git push origin main
+
+# To add a new remote, called for example github instead of origin (which obviously already exists in your system), do the following:
+git remote add github git@github.com:andyolivers/first_app.git
+
+git remote set-url origin git@github.com:ppreyer/first_app.git
+
+# create new folder
+mkdir 
+
+# Check if we are connected to git 
+git remote -v
+
+# delete local git repo
+rm -rf <.git>
+
+# create file 
+touch <filename>
+
+# list alls branches
+git branch
+
+# create a new branch
+git checkout -b <branch-name>
+
+# move to a different branch
+git checkout <branch-name>
+
+# Update branch from remote/origin
+git pull origin <branch-name>
+
+# delete a branch
+git branch -D <branch-name>
